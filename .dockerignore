@@ -1,0 +1,27 @@
+# Git files
+.git
+.gitignore
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# Virtual envs
+venv/
+env/
+
+# IDE configs
+*.idea/
+*.vscode/
+
+# Database/data folders (your error source)
+data/
+*.db
+
+# OS generated
+.DS_Store
+Thumbs.db
